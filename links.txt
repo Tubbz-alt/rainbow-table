@@ -1,0 +1,8 @@
+// useful resources for rainbow-table
+
+http://kestas.kuliukas.com/RainbowTables/
+https://lasec.epfl.ch/~oechslin/publications/crypto03.pdf
+https://crypto.stackexchange.com/questions/35418/time-complexity-of-looking-up-in-a-rainbow-table
+http://billatnapier.com/security50.aspx
+https://en.wikipedia.org/wiki/Rainbow_table
+https://www.quora.com/unanswered/What-is-the-time-complexity-of-a-rainbow-table
