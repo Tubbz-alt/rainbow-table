@@ -1,6 +1,6 @@
 // don't look at this file
-// i started a custome implementation of lmhash
-// but i found a lib called ntlm where there is lmhash implementation
+// i started a custom implementation of lmhash
+// but i found a lib called ntlm where there is a lmhash implementation
 
 var computeHalf = half => {
 	if (half.length === 0) {
