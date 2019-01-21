@@ -1,6 +1,6 @@
 # rainbow-table
 
-Little console application that cracks a hash of a numeric password of length 6 using the rainbow-table technique. The rainbow-table used doen't contain all the possible passwords for all the possible hashes. It's very limited.
+Little console application that cracks a hash of a numeric password of length 6 using the rainbow-table technique. The rainbow-table used doesn't contain all the possible passwords for all the possible hashes. It's very limited.
 
 ## Getting Started
 
